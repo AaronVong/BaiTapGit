@@ -21,6 +21,7 @@ int main()
 	case '-':
 		cout<< "sinh vien C ";
 		return a-b ;
+		cout<<"asdasdasd";
 		break;
 	case '*':
 
