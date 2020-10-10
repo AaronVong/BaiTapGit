@@ -19,7 +19,8 @@ int main()
 		return a+b;
 		break;
 	case '-':
-
+	cout<<"Sinh vien B lam cai nay";
+	return a-b;
 		break;
 	case '*':
 
