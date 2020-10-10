@@ -15,6 +15,8 @@ int main()
 	switch (phepToan)
 	{
 	case '+':
+		cout<<"Sinh vien A lam cai nay";
+		return a+b;
 		break;
 	case '-':
 
