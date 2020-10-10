@@ -25,7 +25,8 @@ int main()
 
 		break;
 	case '/':
-
+		cout<<"Sinh vien D lam cai nay";
+		return a/b;
 		break;
 	default:
 		cout << "Chon sai phep toan";
